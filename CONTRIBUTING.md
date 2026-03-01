@@ -7,8 +7,6 @@ Thank you for your interest in contributing! This document explains how to submi
 ## What You Can Contribute
 
 - **Skybox presets** — new `.scmskybox` files with preview images
-- **Unit preview images** — PNG thumbnails for units missing a preview
-- **Prop preview images** — PNG thumbnails for environment props
 - **Bug reports** — broken previews, wrong folder structure, loading errors
 
 ---
@@ -38,7 +36,7 @@ skyboxes/
 - The `.scmskybox` file must be valid JSON
 - The copyright block must be present at the top of the file (see below)
 - Preview images must be in `prev/`, named `1.png`, `2.png`, `3.png`
-- Preview images should be **1920×1080** or **1280×720**, JPG or PNG
+- Preview images should be **1920×1080** or **1280×720**, PNG
 - Skybox name should be descriptive (e.g. `Arctic_Twilight`, not `test1`)
 
 ### Copyright Block
@@ -46,29 +44,36 @@ skyboxes/
 Every `.scmskybox` file must include this comment at the top:
 
 ```
-/*
- * ============================================================
- *  ForgeMapToolkit Assets — Skybox Preset
- *  Copyright (c) 2026 Seraphim-Noob
- * ============================================================
- *  LICENSE: Creative Commons Attribution-NonCommercial 4.0
- *  This copyright block must remain intact in all copies.
- *  Full license: https://creativecommons.org/licenses/by-nc/4.0/
- * ============================================================
- */
+    "_copyright": [
+        "============================================================",
+        " ForgeMapToolkit Assets — Skybox Preset",
+        " Copyright (c) 2026 Seraphim-Noob",
+        "============================================================",
+        "",
+        " LICENSE: Creative Commons Attribution-NonCommercial 4.0",
+        "          International (CC BY-NC 4.0)",
+        "",
+        " You are free to:",
+        "   - Share  — copy and redistribute this file in any medium",
+        "   - Adapt  — remix, transform, and build upon this material",
+        "",
+        " Under the following terms:",
+        "   - NonCommercial — You may not use this material for",
+        "                     commercial purposes.",
+        "   - No additional restrictions — You may not apply legal",
+        "                     terms or technological measures that",
+        "                     legally restrict others from doing",
+        "                     anything the license permits.",
+        "",
+        " This copyright block must remain intact in all copies",
+        " and derivative works.",
+        "",
+        " Full license text: https://creativecommons.org/licenses/by-nc/4.0/",
+        " Repository:        https://github.com/SeraphimNoob01/ForgeMapToolkit-Assets",
+        "============================================================"
+    ],
 ```
 
-You can run `python add_copyright.py <folder>` to add it automatically.
-
----
-
-## Submitting Unit / Prop Previews
-
-- Place unit PNGs in `units/` named exactly `<UNITID>.png` (e.g. `XNA0001.png`)
-- Place prop PNGs in `props/` named exactly `<PropName>_albedo.png`
-- Images should be **256×256** or **512×512**, transparent background preferred
-
----
 
 ## Pull Request Checklist
 
@@ -88,6 +93,7 @@ Use the **Bug Report** issue template for:
 - Missing or broken preview images
 - Skyboxes not loading in ForgeMapToolkit
 - Incorrect folder structure
+- Report only bugs related to the ForgeMapToolKit-Assets repository, not issues originating from the ForgeMapToolkit itself.
 
 Use the **Asset Request** template to request new skyboxes or previews.
 
