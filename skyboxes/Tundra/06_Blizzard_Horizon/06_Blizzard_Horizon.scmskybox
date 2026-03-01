@@ -1,4 +1,32 @@
 {
+    "_copyright": [
+        "============================================================",
+        " ForgeMapToolkit Assets — Skybox Preset",
+        " Copyright (c) 2026 Seraphim-Noob",
+        "============================================================",
+        "",
+        " LICENSE: Creative Commons Attribution-NonCommercial 4.0",
+        "          International (CC BY-NC 4.0)",
+        "",
+        " You are free to:",
+        "   - Share  — copy and redistribute this file in any medium",
+        "   - Adapt  — remix, transform, and build upon this material",
+        "",
+        " Under the following terms:",
+        "   - NonCommercial — You may not use this material for",
+        "                     commercial purposes.",
+        "   - No additional restrictions — You may not apply legal",
+        "                     terms or technological measures that",
+        "                     legally restrict others from doing",
+        "                     anything the license permits.",
+        "",
+        " This copyright block must remain intact in all copies",
+        " and derivative works.",
+        "",
+        " Full license text: https://creativecommons.org/licenses/by-nc/4.0/",
+        " Repository:        https://github.com/SeraphimNoob01/ForgeMapToolkit-Assets",
+        "============================================================"
+    ],
     "Data": {
         "Position": {
             "x": 256.0,
@@ -405,8 +433,8 @@
         "CirrusLayers": [
             {
                 "frequency": {
-                    "x": 0.00001,
-                    "y": 0.00001
+                    "x": 1e-05,
+                    "y": 1e-05
                 },
                 "Speed": 1.8,
                 "Direction": {
@@ -416,7 +444,7 @@
             },
             {
                 "frequency": {
-                    "x": 0.00003,
+                    "x": 3e-05,
                     "y": 0.00012
                 },
                 "Speed": 2.2,
@@ -439,7 +467,7 @@
             {
                 "frequency": {
                     "x": 0.00015,
-                    "y": 0.00001
+                    "y": 1e-05
                 },
                 "Speed": 2.8,
                 "Direction": {

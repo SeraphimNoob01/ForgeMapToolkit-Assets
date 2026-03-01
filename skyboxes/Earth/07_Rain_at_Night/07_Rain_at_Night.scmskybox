@@ -1,4 +1,32 @@
 {
+    "_copyright": [
+        "============================================================",
+        " ForgeMapToolkit Assets — Skybox Preset",
+        " Copyright (c) 2026 Seraphim-Noob",
+        "============================================================",
+        "",
+        " LICENSE: Creative Commons Attribution-NonCommercial 4.0",
+        "          International (CC BY-NC 4.0)",
+        "",
+        " You are free to:",
+        "   - Share  — copy and redistribute this file in any medium",
+        "   - Adapt  — remix, transform, and build upon this material",
+        "",
+        " Under the following terms:",
+        "   - NonCommercial — You may not use this material for",
+        "                     commercial purposes.",
+        "   - No additional restrictions — You may not apply legal",
+        "                     terms or technological measures that",
+        "                     legally restrict others from doing",
+        "                     anything the license permits.",
+        "",
+        " This copyright block must remain intact in all copies",
+        " and derivative works.",
+        "",
+        " Full license text: https://creativecommons.org/licenses/by-nc/4.0/",
+        " Repository:        https://github.com/SeraphimNoob01/ForgeMapToolkit-Assets",
+        "============================================================"
+    ],
     "Data": {
         "Position": {
             "x": 256.0,
@@ -6,7 +34,7 @@
             "z": 256.0
         },
         "Scale": 1171.456,
-        "SubtractHeight": 1.3066369771957397,
+        "SubtractHeight": 1.3066369771957398,
         "SubdivisionsAxis": 16,
         "SubdivisionsHeight": 6,
         "HorizonHeight": -50.0,
@@ -41,28 +69,52 @@
             "a": 1.0
         },
         "CirrusTexture": "/textures/environment/cirrus000.dds",
-"CirrusLayers": [
-    {
-        "frequency": {"x": 0.00110, "y": 0.00110},
-        "Speed": 3.5,
-        "Direction": {"x": 0.707, "y": -0.707}
-    },
-    {
-        "frequency": {"x": 0.00085, "y": 0.00160},
-        "Speed": 5.2,
-        "Direction": {"x": 1.0, "y": 0.0}
-    },
-    {
-        "frequency": {"x": 0.00140, "y": 0.00075},
-        "Speed": 2.8,
-        "Direction": {"x": -0.6, "y": 0.8}
-    },
-    {
-        "frequency": {"x": 0.00095, "y": 0.00180},
-        "Speed": 4.5,
-        "Direction": {"x": 0.9, "y": 0.436}
-    }
-],
+        "CirrusLayers": [
+            {
+                "frequency": {
+                    "x": 0.0011,
+                    "y": 0.0011
+                },
+                "Speed": 3.5,
+                "Direction": {
+                    "x": 0.707,
+                    "y": -0.707
+                }
+            },
+            {
+                "frequency": {
+                    "x": 0.00085,
+                    "y": 0.0016
+                },
+                "Speed": 5.2,
+                "Direction": {
+                    "x": 1.0,
+                    "y": 0.0
+                }
+            },
+            {
+                "frequency": {
+                    "x": 0.0014,
+                    "y": 0.00075
+                },
+                "Speed": 2.8,
+                "Direction": {
+                    "x": -0.6,
+                    "y": 0.8
+                }
+            },
+            {
+                "frequency": {
+                    "x": 0.00095,
+                    "y": 0.0018
+                },
+                "Speed": 4.5,
+                "Direction": {
+                    "x": 0.9,
+                    "y": 0.436
+                }
+            }
+        ],
         "Clouds7": 0.0
     }
 }
