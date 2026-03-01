@@ -1,0 +1,68 @@
+{
+    "Data": {
+        "Position": {
+            "x": 256.0,
+            "y": -35.0,
+            "z": 256.0
+        },
+        "Scale": 1171.456,
+        "SubtractHeight": 1.2566369771957397,
+        "SubdivisionsAxis": 128,
+        "SubdivisionsHeight": 128,
+        "HorizonHeight": -55.0,
+        "ZenithHeight": 350.0,
+        "HorizonColor": {
+            "r": 1.0,
+            "g": 0.55,
+            "b": 0.28,
+            "a": 1.0
+        },
+        "ZenithColor": {
+            "r": 0.17647058823529413,
+            "g": 0.11764705882352941,
+            "b": 0.3137254901960784,
+            "a": 1.0
+        },
+        "DecalGlowMultiplier": 0.1,
+        "Albedo": "/textures/environment/Decal_test_Albedo003.dds",
+        "Glow": "/textures/environment/Decal_test_Glow003.dds",
+        "Planets": [],
+        "MidRgbColor": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 0
+        },
+        "CirrusMultiplier": 1.2,
+        "CirrusColor": {
+            "r": 1.3,
+            "g": 0.6,
+            "b": 0.4,
+            "a": 1.0
+        },
+        "CirrusTexture": "/textures/environment/cirrus000.dds",
+"CirrusLayers": [
+    {
+        "frequency": {"x": 0.00032, "y": 0.00032},
+        "Speed": 0.6,
+        "Direction": {"x": 0.532, "y": -0.847}
+    },
+    {
+        "frequency": {"x": 0.00018, "y": 0.00042},
+        "Speed": 0.25,
+        "Direction": {"x": 0.966, "y": 0.257}
+    },
+    {
+        "frequency": {"x": 0.00050, "y": 0.00022},
+        "Speed": 0.45,
+        "Direction": {"x": 0.158, "y": 0.987}
+    },
+    {
+        "frequency": {"x": 0.00025, "y": 0.00055},
+        "Speed": 0.15,
+        "Direction": {"x": -0.595, "y": -0.804}
+    }
+        ],
+        "Clouds7": 0.0
+    }
+}
