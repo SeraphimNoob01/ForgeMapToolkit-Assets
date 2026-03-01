@@ -24,8 +24,8 @@
             "a": 1.0
         },
         "DecalGlowMultiplier": 0.080000000149011612,
-        "Albedo": "/maps/digitis.v0005/env/decals/blackhole.dds",
-        "Glow": "/maps/digitis.v0005/env/decals/blackhole_glow.dds",
+        "Albedo": "Insert Mapname in the Inputfield",
+        "Glow": "Insert Mapname in the Inputfield",
         "Planets": [
             {
                 "Position": {

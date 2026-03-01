@@ -24,8 +24,8 @@
             "a": 1.0
         },
         "DecalGlowMultiplier": 0.33000001311302187,
-        "Albedo": "/maps/digitis.v0005/env/decals/try7.dds",
-        "Glow": "/maps/digitis.v0005/env/decals/blackstar_glow.dds",
+        "Albedo": "Insert Mapname in the Inputfield",
+        "Glow": "Insert Mapname in the Inputfield",
         "Planets": [
             {
                 "Position": {
@@ -6246,7 +6246,7 @@
         },
 "CirrusColor": { "r": 0.38, "g": 0.24, "b": 0.14, "a": 1.0 },
         "CirrusMultiplier": 3.5,
-        "CirrusTexture": "/maps/digitis.v0005/env/decals/aurora.dds",
+        "CirrusTexture": "Insert Mapname in the Inputfield",
         "CirrusLayers": [
             {
                 "frequency": {

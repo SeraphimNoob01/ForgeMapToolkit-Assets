@@ -24,8 +24,8 @@
             "a": 1.0
         },
         "DecalGlowMultiplier": 0.32,
-        "Albedo": "/maps/digitis.v0005/env/decals/last_horizon.dds",
-        "Glow": "/maps/digitis.v0005/env/decals/last_horizon_glow.dds",
+        "Albedo": "Insert Mapname in the Inputfield",
+        "Glow": "Insert Mapname in the Inputfield",
         "Planets": [
             {
                 "Position": {
@@ -7295,7 +7295,7 @@
             "b": 1.773,
             "a": 1.0
         },
-        "CirrusTexture": "/maps/digitis.v0005/env/decals/aurora.dds",
+        "CirrusTexture": "Insert Mapname in the Inputfield",
         "CirrusLayers": [
             {
                 "frequency": {
