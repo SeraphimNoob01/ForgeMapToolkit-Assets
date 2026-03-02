@@ -6,6 +6,7 @@ This repository contains:
 - **Skybox presets** — ready-to-use `.scmskybox` files with preview images
 - **Unit preview images** — PNG thumbnails for all factions including Nomads
 - **Prop preview images** — PNG thumbnails for environment props
+- **Nomads _unit.bp files** — containing unit information for the Unit-Library
 
 ---
 
