@@ -1,32 +1,4 @@
 {
-    "_copyright": [
-        "============================================================",
-        " ForgeMapToolkit Assets — Skybox Preset",
-        " Copyright (c) 2026 Seraphim-Noob",
-        "============================================================",
-        "",
-        " LICENSE: Creative Commons Attribution-NonCommercial 4.0",
-        "          International (CC BY-NC 4.0)",
-        "",
-        " You are free to:",
-        "   - Share  — copy and redistribute this file in any medium",
-        "   - Adapt  — remix, transform, and build upon this material",
-        "",
-        " Under the following terms:",
-        "   - NonCommercial — You may not use this material for",
-        "                     commercial purposes.",
-        "   - No additional restrictions — You may not apply legal",
-        "                     terms or technological measures that",
-        "                     legally restrict others from doing",
-        "                     anything the license permits.",
-        "",
-        " This copyright block must remain intact in all copies",
-        " and derivative works.",
-        "",
-        " Full license text: https://creativecommons.org/licenses/by-nc/4.0/",
-        " Repository:        https://github.com/SeraphimNoob01/ForgeMapToolkit-Assets",
-        "============================================================"
-    ],
     "Data": {
         "Position": {
             "x": 256.0,
@@ -37,7 +9,7 @@
         "SubtractHeight": 1.2566369771957397,
         "SubdivisionsAxis": 64,
         "SubdivisionsHeight": 64,
-        "HorizonHeight": -20.0,
+        "HorizonHeight": -40.0,
         "ZenithHeight": 260.0,
         "HorizonColor": {
             "r": 0.05,
@@ -51,7 +23,7 @@
             "b": 0.04,
             "a": 1.0
         },
-        "DecalGlowMultiplier": 42.0,
+        "DecalGlowMultiplier": 0.1,
         "Albedo": "/textures/environment/Decal_test_Albedo003.dds",
         "Glow": "/textures/environment/Decal_test_Glow003.dds",
         "Planets": [
