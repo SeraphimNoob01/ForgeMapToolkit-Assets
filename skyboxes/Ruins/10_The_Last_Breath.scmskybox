@@ -1,0 +1,35 @@
+{
+    "Data": {
+        "Position": { "x": 256.0, "y": -15.0, "z": 256.0 },
+        "Scale": 1450.0,
+        "SubtractHeight": 1.25,
+        "SubdivisionsAxis": 64,
+        "SubdivisionsHeight": 64,
+        "HorizonHeight": -60.0,
+        "ZenithHeight": 465.0,
+        "HorizonColor": { "r": 0.32, "g": 0.08, "b": 0.40, "a": 1.0 },
+        "ZenithColor": { "r": 0.06, "g": 0.02, "b": 0.14, "a": 1.0 },
+        "DecalGlowMultiplier": 0.03,
+        "Albedo": "/textures/environment/Decal_test_Albedo003.dds",
+        "Glow": "/textures/environment/Decal_test_Glow003.dds",
+        "Planets": [
+            { "Position": { "x": -11200, "y": 600, "z": 4800 }, "Rotation": 0.0, "Scale": { "x": 44, "y": 44 }, "Uv": { "x": 0.5, "y": 0.0, "z": 0.5, "w": 0.5 } },
+            { "Position": { "x": 7400, "y": 1200, "z": -8600 }, "Rotation": 0.0, "Scale": { "x": 28, "y": 28 }, "Uv": { "x": 0.5, "y": 0.0, "z": 0.5, "w": 0.5 } },
+            { "Position": { "x": -4600, "y": 2100, "z": -7200 }, "Rotation": 0.0, "Scale": { "x": 20, "y": 20 }, "Uv": { "x": 0.5, "y": 0.0, "z": 0.5, "w": 0.5 } },
+            { "Position": { "x": 9800, "y": 500, "z": 6500 }, "Rotation": 0.0, "Scale": { "x": 36, "y": 36 }, "Uv": { "x": 0.5, "y": 0.0, "z": 0.5, "w": 0.5 } },
+            { "Position": { "x": -8100, "y": 1800, "z": -3900 }, "Rotation": 0.0, "Scale": { "x": 22, "y": 22 }, "Uv": { "x": 0.5, "y": 0.0, "z": 0.5, "w": 0.5 } },
+            { "Position": { "x": 3200, "y": 700, "z": 11800 }, "Rotation": 0.0, "Scale": { "x": 20, "y": 20 }, "Uv": { "x": 0.5, "y": 0.0, "z": 0.5, "w": 0.5 } }
+        ],
+        "MidRgbColor": { "r": 0.12, "g": 0.03, "b": 0.18, "a": 0 },
+        "CirrusMultiplier": 1.5,
+        "CirrusColor": { "r": 0.40, "g": 0.12, "b": 0.55, "a": 1.0 },
+        "CirrusTexture": "/textures/environment/cirrus000.dds",
+        "CirrusLayers": [
+            { "frequency": { "x": 0.00014, "y": 0.00014 }, "Speed": 0.12, "Direction": { "x": 0.707, "y": 0.707 } },
+            { "frequency": { "x": 0.00035, "y": 0.00070 }, "Speed": 0.38, "Direction": { "x": -0.866, "y": 0.5 } },
+            { "frequency": { "x": 0.00060, "y": 0.00030 }, "Speed": 0.22, "Direction": { "x": 0.5, "y": -0.866 } },
+            { "frequency": { "x": 0.00022, "y": 0.00050 }, "Speed": 0.55, "Direction": { "x": -0.5, "y": -0.866 } }
+        ],
+        "Clouds7": 0.0
+    }
+}

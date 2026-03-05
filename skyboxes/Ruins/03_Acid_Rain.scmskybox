@@ -1,0 +1,201 @@
+{
+    "Data": {
+        "Position": {
+            "x": 256.0,
+            "y": -15.0,
+            "z": 256.0
+        },
+        "Scale": 1200.0,
+        "SubtractHeight": 1.25,
+        "SubdivisionsAxis": 64,
+        "SubdivisionsHeight": 64,
+        "HorizonHeight": -42.0,
+        "ZenithHeight": 188.0,
+        "HorizonColor": {
+            "r": 0.42,
+            "g": 0.52,
+            "b": 0.05,
+            "a": 1.0
+        },
+        "ZenithColor": {
+            "r": 0.12,
+            "g": 0.15,
+            "b": 0.06,
+            "a": 1.0
+        },
+        "DecalGlowMultiplier": 0.05,
+        "Albedo": "/textures/environment/Decal_test_Albedo003.dds",
+        "Glow": "/textures/environment/Decal_test_Glow003.dds",
+        "Planets": [
+            {
+                "Position": {
+                    "x": -9100,
+                    "y": 800,
+                    "z": 3800
+                },
+                "Rotation": 0.0,
+                "Scale": {
+                    "x": 24,
+                    "y": 24
+                },
+                "Uv": {
+                    "x": 0.5,
+                    "y": 0.0,
+                    "z": 0.5,
+                    "w": 0.5
+                }
+            },
+            {
+                "Position": {
+                    "x": 5600,
+                    "y": 1300,
+                    "z": -7400
+                },
+                "Rotation": 0.0,
+                "Scale": {
+                    "x": 20,
+                    "y": 20
+                },
+                "Uv": {
+                    "x": 0.5,
+                    "y": 0.0,
+                    "z": 0.5,
+                    "w": 0.5
+                }
+            },
+            {
+                "Position": {
+                    "x": -4200,
+                    "y": 600,
+                    "z": 10100
+                },
+                "Rotation": 0.0,
+                "Scale": {
+                    "x": 30,
+                    "y": 30
+                },
+                "Uv": {
+                    "x": 0.5,
+                    "y": 0.0,
+                    "z": 0.5,
+                    "w": 0.5
+                }
+            },
+            {
+                "Position": {
+                    "x": 10800,
+                    "y": 2000,
+                    "z": -3500
+                },
+                "Rotation": 0.0,
+                "Scale": {
+                    "x": 20,
+                    "y": 20
+                },
+                "Uv": {
+                    "x": 0.5,
+                    "y": 0.0,
+                    "z": 0.5,
+                    "w": 0.5
+                }
+            },
+            {
+                "Position": {
+                    "x": -7600,
+                    "y": 1500,
+                    "z": -8200
+                },
+                "Rotation": 0.0,
+                "Scale": {
+                    "x": 38,
+                    "y": 38
+                },
+                "Uv": {
+                    "x": 0.5,
+                    "y": 0.0,
+                    "z": 0.5,
+                    "w": 0.5
+                }
+            },
+            {
+                "Position": {
+                    "x": 3400,
+                    "y": 400,
+                    "z": 9600
+                },
+                "Rotation": 0.0,
+                "Scale": {
+                    "x": 22,
+                    "y": 22
+                },
+                "Uv": {
+                    "x": 0.5,
+                    "y": 0.0,
+                    "z": 0.5,
+                    "w": 0.5
+                }
+            }
+        ],
+        "MidRgbColor": {
+            "r": 0.16,
+            "g": 0.2,
+            "b": 0.05,
+            "a": 0
+        },
+        "CirrusMultiplier": 6.8,
+        "CirrusColor": {
+            "r": 0.48,
+            "g": 0.58,
+            "b": 0.12,
+            "a": 1.0
+        },
+        "CirrusTexture": "/textures/environment/cirrus000.dds",
+        "CirrusLayers": [
+            {
+                "frequency": {
+                    "x": 0.00038,
+                    "y": 0.00038
+                },
+                "Speed": 0.18,
+                "Direction": {
+                    "x": -0.707,
+                    "y": 0.707
+                }
+            },
+            {
+                "frequency": {
+                    "x": 0.00092,
+                    "y": 0.00184
+                },
+                "Speed": 0.55,
+                "Direction": {
+                    "x": 0.866,
+                    "y": 0.5
+                }
+            },
+            {
+                "frequency": {
+                    "x": 0.00155,
+                    "y": 0.00078
+                },
+                "Speed": 0.32,
+                "Direction": {
+                    "x": -0.5,
+                    "y": -0.866
+                }
+            },
+            {
+                "frequency": {
+                    "x": 0.00055,
+                    "y": 0.00122
+                },
+                "Speed": 0.75,
+                "Direction": {
+                    "x": 0.5,
+                    "y": 0.866
+                }
+            }
+        ],
+        "Clouds7": 0.0
+    }
+}

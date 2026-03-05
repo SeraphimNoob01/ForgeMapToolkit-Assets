@@ -1,0 +1,273 @@
+{
+    "Data": {
+        "Position": {
+            "x": 256.0,
+            "y": -15.0,
+            "z": 256.0
+        },
+        "Scale": 1150.0,
+        "SubtractHeight": 1.45,
+        "SubdivisionsAxis": 64,
+        "SubdivisionsHeight": 64,
+        "HorizonHeight": -55.0,
+        "ZenithHeight": 172.0,
+        "HorizonColor": {
+            "r": 0.78,
+            "g": 0.2,
+            "b": 0.02,
+            "a": 1.0
+        },
+        "ZenithColor": {
+            "r": 0.18,
+            "g": 0.06,
+            "b": 0.02,
+            "a": 1.0
+        },
+        "DecalGlowMultiplier": 0.1,
+        "Albedo": "/textures/environment/Decal_test_Albedo003.dds",
+        "Glow": "/textures/environment/Decal_test_Glow003.dds",
+        "Planets": [
+            {
+                "Position": {
+                    "x": 7800,
+                    "y": 1100,
+                    "z": -5200
+                },
+                "Rotation": 0.0,
+                "Scale": {
+                    "x": 42,
+                    "y": 42
+                },
+                "Uv": {
+                    "x": 0.5,
+                    "y": 0.0,
+                    "z": 0.5,
+                    "w": 0.5
+                }
+            },
+            {
+                "Position": {
+                    "x": -9600,
+                    "y": 700,
+                    "z": 4300
+                },
+                "Rotation": 0.0,
+                "Scale": {
+                    "x": 30,
+                    "y": 30
+                },
+                "Uv": {
+                    "x": 0.5,
+                    "y": 0.0,
+                    "z": 0.5,
+                    "w": 0.5
+                }
+            },
+            {
+                "Position": {
+                    "x": 3200,
+                    "y": 1800,
+                    "z": 10400
+                },
+                "Rotation": 0.0,
+                "Scale": {
+                    "x": 22,
+                    "y": 22
+                },
+                "Uv": {
+                    "x": 0.5,
+                    "y": 0.0,
+                    "z": 0.5,
+                    "w": 0.5
+                }
+            },
+            {
+                "Position": {
+                    "x": -5400,
+                    "y": 500,
+                    "z": -8900
+                },
+                "Rotation": 0.0,
+                "Scale": {
+                    "x": 50,
+                    "y": 50
+                },
+                "Uv": {
+                    "x": 0.5,
+                    "y": 0.0,
+                    "z": 0.5,
+                    "w": 0.5
+                }
+            },
+            {
+                "Position": {
+                    "x": 12100,
+                    "y": 1400,
+                    "z": 6700
+                },
+                "Rotation": 0.0,
+                "Scale": {
+                    "x": 20,
+                    "y": 20
+                },
+                "Uv": {
+                    "x": 0.5,
+                    "y": 0.0,
+                    "z": 0.5,
+                    "w": 0.5
+                }
+            },
+            {
+                "Position": {
+                    "x": -2800,
+                    "y": 2600,
+                    "z": -6200
+                },
+                "Rotation": 0.0,
+                "Scale": {
+                    "x": 38,
+                    "y": 38
+                },
+                "Uv": {
+                    "x": 0.5,
+                    "y": 0.0,
+                    "z": 0.5,
+                    "w": 0.5
+                }
+            },
+            {
+                "Position": {
+                    "x": 6100,
+                    "y": 400,
+                    "z": -12800
+                },
+                "Rotation": 0.0,
+                "Scale": {
+                    "x": 25,
+                    "y": 25
+                },
+                "Uv": {
+                    "x": 0.5,
+                    "y": 0.0,
+                    "z": 0.5,
+                    "w": 0.5
+                }
+            },
+            {
+                "Position": {
+                    "x": -11400,
+                    "y": 1900,
+                    "z": 2100
+                },
+                "Rotation": 0.0,
+                "Scale": {
+                    "x": 20,
+                    "y": 20
+                },
+                "Uv": {
+                    "x": 0.5,
+                    "y": 0.0,
+                    "z": 0.5,
+                    "w": 0.5
+                }
+            },
+            {
+                "Position": {
+                    "x": 4800,
+                    "y": 800,
+                    "z": 7600
+                },
+                "Rotation": 0.0,
+                "Scale": {
+                    "x": 33,
+                    "y": 33
+                },
+                "Uv": {
+                    "x": 0.5,
+                    "y": 0.0,
+                    "z": 0.5,
+                    "w": 0.5
+                }
+            },
+            {
+                "Position": {
+                    "x": -7200,
+                    "y": 3100,
+                    "z": -3600
+                },
+                "Rotation": 0.0,
+                "Scale": {
+                    "x": 28,
+                    "y": 28
+                },
+                "Uv": {
+                    "x": 0.5,
+                    "y": 0.0,
+                    "z": 0.5,
+                    "w": 0.5
+                }
+            }
+        ],
+        "MidRgbColor": {
+            "r": 0.22,
+            "g": 0.06,
+            "b": 0.01,
+            "a": 0
+        },
+        "CirrusMultiplier": 6.5,
+        "CirrusColor": {
+            "r": 0.7,
+            "g": 0.22,
+            "b": 0.04,
+            "a": 1.0
+        },
+        "CirrusTexture": "/textures/environment/cirrus001_512.dds",
+        "CirrusLayers": [
+            {
+                "frequency": {
+                    "x": 0.00062,
+                    "y": 0.00062
+                },
+                "Speed": 0.45,
+                "Direction": {
+                    "x": 0.707,
+                    "y": 0.707
+                }
+            },
+            {
+                "frequency": {
+                    "x": 0.00145,
+                    "y": 0.0029
+                },
+                "Speed": 0.8,
+                "Direction": {
+                    "x": -0.866,
+                    "y": 0.5
+                }
+            },
+            {
+                "frequency": {
+                    "x": 0.0024,
+                    "y": 0.0012
+                },
+                "Speed": 0.62,
+                "Direction": {
+                    "x": 0.5,
+                    "y": -0.866
+                }
+            },
+            {
+                "frequency": {
+                    "x": 0.00088,
+                    "y": 0.00195
+                },
+                "Speed": 1.0,
+                "Direction": {
+                    "x": -0.707,
+                    "y": -0.707
+                }
+            }
+        ],
+        "Clouds7": 0.0
+    }
+}

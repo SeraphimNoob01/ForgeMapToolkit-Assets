@@ -1,0 +1,42 @@
+{
+    "Data": {
+        "Position": { "x": 256.0, "y": -15.0, "z": 256.0 },
+        "Scale": 1350.0,
+        "SubtractHeight": 1.22,
+        "SubdivisionsAxis": 64,
+        "SubdivisionsHeight": 64,
+        "HorizonHeight": -40.0,
+        "ZenithHeight": 200.0,
+        "HorizonColor": { "r": 0.48, "g": 0.48, "b": 0.52, "a": 1.0 },
+        "ZenithColor": { "r": 0.10, "g": 0.10, "b": 0.16, "a": 1.0 },
+        "DecalGlowMultiplier": 0.08,
+        "Albedo": "/textures/environment/Decal_test_Albedo003.dds",
+        "Glow": "/textures/environment/Decal_test_Glow003.dds",
+        "Planets": [
+            { "Position": { "x": 7600, "y": 1100, "z": 5400 }, "Rotation": 0.0, "Scale": { "x": 55, "y": 55 }, "Uv": { "x": 0.5, "y": 0.0, "z": 0.5, "w": 0.5 } },
+            { "Position": { "x": -5200, "y": 700, "z": -8600 }, "Rotation": 0.0, "Scale": { "x": 38, "y": 38 }, "Uv": { "x": 0.5, "y": 0.0, "z": 0.5, "w": 0.5 } },
+            { "Position": { "x": 10900, "y": 1800, "z": -4100 }, "Rotation": 0.0, "Scale": { "x": 28, "y": 28 }, "Uv": { "x": 0.5, "y": 0.0, "z": 0.5, "w": 0.5 } },
+            { "Position": { "x": -9200, "y": 900, "z": 7300 }, "Rotation": 0.0, "Scale": { "x": 45, "y": 45 }, "Uv": { "x": 0.5, "y": 0.0, "z": 0.5, "w": 0.5 } },
+            { "Position": { "x": 3600, "y": 2600, "z": -11400 }, "Rotation": 0.0, "Scale": { "x": 22, "y": 22 }, "Uv": { "x": 0.5, "y": 0.0, "z": 0.5, "w": 0.5 } },
+            { "Position": { "x": -6800, "y": 400, "z": 3900 }, "Rotation": 0.0, "Scale": { "x": 60, "y": 60 }, "Uv": { "x": 0.5, "y": 0.0, "z": 0.5, "w": 0.5 } },
+            { "Position": { "x": 8100, "y": 3100, "z": -7700 }, "Rotation": 0.0, "Scale": { "x": 32, "y": 32 }, "Uv": { "x": 0.5, "y": 0.0, "z": 0.5, "w": 0.5 } },
+            { "Position": { "x": -12800, "y": 1300, "z": -2200 }, "Rotation": 0.0, "Scale": { "x": 20, "y": 20 }, "Uv": { "x": 0.5, "y": 0.0, "z": 0.5, "w": 0.5 } },
+            { "Position": { "x": 5000, "y": 600, "z": 10200 }, "Rotation": 0.0, "Scale": { "x": 42, "y": 42 }, "Uv": { "x": 0.5, "y": 0.0, "z": 0.5, "w": 0.5 } },
+            { "Position": { "x": -4400, "y": 1900, "z": -5800 }, "Rotation": 0.0, "Scale": { "x": 26, "y": 26 }, "Uv": { "x": 0.5, "y": 0.0, "z": 0.5, "w": 0.5 } },
+            { "Position": { "x": 13200, "y": 800, "z": 6100 }, "Rotation": 0.0, "Scale": { "x": 20, "y": 20 }, "Uv": { "x": 0.5, "y": 0.0, "z": 0.5, "w": 0.5 } },
+            { "Position": { "x": -2600, "y": 2400, "z": 8900 }, "Rotation": 0.0, "Scale": { "x": 50, "y": 50 }, "Uv": { "x": 0.5, "y": 0.0, "z": 0.5, "w": 0.5 } },
+            { "Position": { "x": 6400, "y": 500, "z": -3300 }, "Rotation": 0.0, "Scale": { "x": 20, "y": 20 }, "Uv": { "x": 0.5, "y": 0.0, "z": 0.5, "w": 0.5 } }
+        ],
+        "MidRgbColor": { "r": 0.16, "g": 0.16, "b": 0.20, "a": 0 },
+        "CirrusMultiplier": 3.8,
+        "CirrusColor": { "r": 0.70, "g": 0.70, "b": 0.78, "a": 1.0 },
+        "CirrusTexture": "/textures/environment/cirrus001_512.dds",
+        "CirrusLayers": [
+            { "frequency": { "x": 0.00012, "y": 0.00012 }, "Speed": 0.14, "Direction": { "x": 0.5, "y": 0.866 } },
+            { "frequency": { "x": 0.00028, "y": 0.00055 }, "Speed": 0.55, "Direction": { "x": -0.866, "y": 0.5 } },
+            { "frequency": { "x": 0.00048, "y": 0.00024 }, "Speed": 0.32, "Direction": { "x": 0.707, "y": -0.707 } },
+            { "frequency": { "x": 0.00018, "y": 0.00040 }, "Speed": 0.78, "Direction": { "x": -0.5, "y": -0.866 } }
+        ],
+        "Clouds7": 0.0
+    }
+}
